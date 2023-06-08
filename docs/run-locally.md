@@ -1,6 +1,6 @@
 # Run local
 
-## Run local - Mamp,Xamp,Wamp
+## Run local - Mamp,Xamp,Wamps
 
 You can run the project in your local computer by using Mamp,Xamp or Wamp
 
